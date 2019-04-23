@@ -15,5 +15,17 @@
   "bugs": {
     "url": "https://github.com/Scare01/react_webpack_babel/issues"
   },
-  "homepage": "https://github.com/Scare01/react_webpack_babel#readme"
+  "homepage": "https://github.com/Scare01/react_webpack_babel#readme",
+  "devDependencies": {
+    "@babel/core": "^7.4.3",
+    "@babel/preset-env": "^7.4.3",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.5",
+    "webpack": "^4.30.0",
+    "webpack-cli": "^3.3.1"
+  },
+  "dependencies": {
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
 }
